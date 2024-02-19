@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: artech-git-axum-starter-3e3
+package: artech-git/axum-starter-3e3
